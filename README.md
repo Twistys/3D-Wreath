@@ -1,4 +1,4 @@
-# Lego-Wreath
+# 3D-Wreath
 Get festive with this lego wreath
 Wreath in action: https://youtube.com/shorts/zORu2V9RCKs?si=Z_5DbFAUw2vjMvO6
 
