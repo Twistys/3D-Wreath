@@ -11,6 +11,10 @@ randNumber = random(5) + 1;
 
 Included Circuit Diagram is from my Stargate. For this project I only used 1 LED strip, connected to D8, and 1 speaker. SPK_1 to positive, SPK_2 to negative.
 
+Cut outs left in control box so you can change songs on micro sd card whenever you want without opening up the control box.
+Cut out for access to control board as well if you change the number of songs on the SD card.
+Can change twinkle color for different seasons. Look up CHSV colors, change assosiated lines 95+ in .ino
+
 For operation of wreath:
 Plug into power, either via USB-C or power brick.
 If using power brick, turn rocker switch to on position.
