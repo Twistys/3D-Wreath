@@ -22,6 +22,7 @@ Press momentary button twice to turn off both sound and lights.
 
 
 Required hardware:
+
 D1 Mini Arduino Control Board:
 https://a.co/d/0FfEbmH
 
